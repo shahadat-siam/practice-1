@@ -31,6 +31,15 @@ nav li a{
     text-decoration: none;
     color: #474747;
 }
+.btn-white{
+    border: 1px solid#2b2727;
+    background: transparent;
+    border-radius: 5px;
+    font-size: 20px;
+    font-weight: 600;
+    padding: 15px 35px;
+    margin-left: 10px;
+}
 .btn-primary{
     border: none;
     color: white;
